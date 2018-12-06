@@ -10,6 +10,6 @@
 * https://github.com/airbnb/javascript#types
 
 
-### docker
+### Docker
 **Docker tutorial**
 * https://docker-curriculum.com/
