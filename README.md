@@ -4,5 +4,7 @@
  Today I Learned
 `
 
-## day 1
-### https://github.com/airbnb/javascript#types
+### Javascript
+*Style guide from airbhb*
+
+* https://github.com/airbnb/javascript#types
