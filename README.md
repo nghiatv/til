@@ -4,6 +4,9 @@
  Today I Learned
 `
 
+### Good reads
+* https://levelup.gitconnected.com/10-engineering-skills-that-help-bridge-the-gap-between-bootcamp-and-professional-1db149005d3c
+
 ### Javascript
 *Style guide from airbhb*
 
