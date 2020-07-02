@@ -6,6 +6,7 @@
 
 ### Good reads
 * https://levelup.gitconnected.com/10-engineering-skills-that-help-bridge-the-gap-between-bootcamp-and-professional-1db149005d3c
+* https://uxdesign.cc/how-to-redesign-step-by-step-guide-869379604734
 
 ### Javascript
 *Style guide from airbhb*
