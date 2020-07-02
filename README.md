@@ -17,7 +17,6 @@
 ### Docker
 **Docker tutorial**
 * https://docker-curriculum.com/
-* http://docker.atbaker.me
 
 **Docker awesome**
 * https://github.com/veggiemonk/awesome-docker
