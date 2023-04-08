@@ -26,3 +26,6 @@
 **Tutorial**
 * https://www.howtographql.com
 * https://www.apollographql.com/docs/react/
+
+### Git
+* https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
